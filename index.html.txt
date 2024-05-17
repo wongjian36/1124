@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>代写服务推广</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #666;
+            line-height: 1.6;
+        }
+        .link {
+            display: block;
+            margin: 20px 0;
+            font-size: 18px;
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        .link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>欢迎来到我的代写服务网站</h1>
+        <p>提供高质量的代写服务，确保按时交付，满足您的所有需求。</p>
+        <a class="link" href="【闲鱼】https://m.tb.cn/h.g2nQevF?tk=D7HNWF4eWiB HU0854 「这是我的闲鱼号，快来看看吧～」
+点击链接直接打开">查看我的闲鱼店铺</a>
+        <p>微信号: fadala100</p>
+    </div>
+</body>
+</html>
